@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "853002728194",
+    "project_id": "circleup-01",
+    "storage_bucket": "circleup-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853002728194:android:ef35e6dcf4fe34ea98881b",
+        "android_client_info": {
+          "package_name": "com.pvc.circleup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDewkv6-oUO33o7924UbSzNVP5dnmo-1qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
